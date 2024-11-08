@@ -10,31 +10,31 @@ const aboutData = {
     height: 600,
   },
   intro:
-    "Hello! I'm a passionate web developer with a keen eye for design and a love for creating seamless user experiences. With expertise in modern web technologies, I strive to build applications that are not only functional but also aesthetically pleasing.",
+    "Experienced full-stack developer with a strong emphasis on front-end technologies, particularly React/Next.js and Node.js. Proven expertise in creating intuitive user interfaces and managing server-side logic. Adept at utilizing modern frameworks and leveraging AI/ML technologies to build scalable, high-quality applications. Passionate about driving innovation and delivering exceptional user experiences.",
   journey:
-    "My journey in web development started 5 years ago, and since then, I've had the opportunity to work on a variety of projects, from small business websites to large-scale web applications. I'm constantly learning and staying up-to-date with the latest trends and technologies in the ever-evolving world of web development.",
+    "My journey in web development started 3 years ago, and since then, I've had the opportunity to work on a variety of projects, from small business websites to large-scale web applications. I'm constantly learning and staying up-to-date with the latest trends and technologies in the ever-evolving world of web development.",
   education: [
     {
       degree: "Bachelor of Science in Computer Science",
-      institution: "University Name",
-      year: "Year",
-    },
-    {
-      degree: "Full-Stack Web Development Bootcamp",
-      institution: "Bootcamp Name",
-      year: "Year",
+      institution: "FAST National University of Computer and Emerging Sciences",
+      year: "Aug '18 — May '22",
     },
   ],
   workExperience: [
     {
-      title: "Senior Web Developer",
-      company: "Company Name",
-      years: "Year - Present",
+      title: "Lead Front End Developer",
+      company: "Karaz",
+      years: "Jul '24 - Present",
     },
     {
-      title: "Front-end Developer",
-      company: "Another Company",
-      years: "Year - Year",
+      title: "Software Engineer",
+      company: "Strategic Systems International",
+      years: "Jul '22 — Jun '24",
+    },
+    {
+      title: "Android Developer Intern",
+      company: "Tap'N'Clicks",
+      years: "Jun '21 — Sep '21",
     },
   ],
 };
